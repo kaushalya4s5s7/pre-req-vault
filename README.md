@@ -7,7 +7,6 @@ Fork of the [prerequisite vault challenge](https://github.com/ShrinathNR/pre-req
 - **Task 1** — understanding the vault program (instructions, accounts, state, flow) is written up in [`ARCHITECTURE.md`](./ARCHITECTURE.md).
 - **Task 2** — `withdraw` now performs a CPI to the registration program's `initialize` instruction, recording a GitHub username. See below for the exact change and the on-chain proof.
 - **Task 3** — the architecture diagram is in [`ARCHITECTURE.md`](./ARCHITECTURE.md): a component/account map and a sequence diagram, in standard notation.
-- **Task 4** — video walkthrough script and deeper first-principles notes are in [`NOTES_FOR_VIDEO.md`](./NOTES_FOR_VIDEO.md).
 
 ## Task 2 — what was added
 
